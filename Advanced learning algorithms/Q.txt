@@ -1,0 +1,7 @@
+how tile data affect the learning epoches?
+neural net forward propagation real class implementation?
+the one learning algoritm hybothesis, artifitial narrow intelligemce, artificial general intelligence
+ReLU or sigmoid in hidden layers, the cons of relu, solutions
+other activation functions
+np.where
+conventional centric model approach (data researches) vs data centric approach
